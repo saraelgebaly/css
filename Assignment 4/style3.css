@@ -1,0 +1,32 @@
+section{display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+margin-top: 150px;
+margin-right: 100px;
+}
+.li1{font-size: larger;}
+.li2{ font-size:smaller;
+color: gray;}
+.li3{font-size:smaller;
+    color: gray;}
+.li4{font-size:smaller;
+    color: gray;}
+.li5{font-size:smaller;
+    color: gray;}
+.li6{font-size:smaller;
+    color: gray;}
+.li7{font-size:smaller;
+    color: gray;}
+.li8{font-size:smaller;
+    color: gray;}
+.li9{font-size:smaller;
+    color: gray;}
+.li10{font-size:smaller;
+    color: gray;}
+.li11{font-size:smaller;
+    color: gray;}
+.li12{font-size:smaller;
+    color: gray;}
+    .li13{font-size:smaller;
+        color: gray;}

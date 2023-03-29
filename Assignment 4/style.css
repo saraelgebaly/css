@@ -1,0 +1,21 @@
+body{background-color: black;
+background-size:cover ;
+
+}
+section {display: flex;}
+.div1{
+    margin: 100px 50px;
+    flex-wrap: wrap;
+    align-items: space-around;
+}
+.div2{
+margin-top: 150px;
+margin-right: 50px;
+margin-left: 50px;
+align-items: space-around ;
+
+}
+h1{color:white;
+align-items:center ; }
+p{color: white; 
+}

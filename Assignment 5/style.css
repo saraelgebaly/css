@@ -1,0 +1,82 @@
+body{ background-color: black;
+height: 2700px;
+
+}
+
+.sec1{ display: flex; flex-wrap: wrap; width:100%; height: 600px; }
+.abs{position: absolute;
+z-index: -1; }
+.netflogo{font-size: 30px; display: flex;
+color: rgb(221, 9, 9); 
+font-style:oblique;justify-content: space-between;
+}
+nav{ display: flex;}
+.signin{background-color: red;border: none;padding: 5px; margin-left: 800px; font-size: large; margin-top: 30px; color: white;}
+.h1{display: flex;
+    color:  white;
+justify-content: center;
+align-items: center;
+margin-top: 80px;
+font-size: 50px;
+ }
+h3{color: white;
+justify-content: center;
+align-items: center;
+font-size: 30px
+}
+h6{color: white;
+justify-content: center;
+align-items: center;
+font-size: 20px;
+}
+.input{display: flex;
+    justify-content: center;
+align-items: center;
+}
+.inp{width: 400px;
+height: 30px;}
+.start{background-color: red;font-size: 20px; 
+border: none;
+padding: 7px;}
+.rel{ height: 485px; width: 500px;
+     position: relative; justify-content: center;align-items: center; margin-left: 270px; }
+.sec2{width: 100%; height: 400px; display: flex;
+ justify-content: center; align-items: center;}
+.div2{  width: 400px; height: 200px; margin-right: 150px; padding-top: 100px; margin-bottom: 100px;}
+.h12{color: white; font-size: 30px; }
+.h32{font-size:larger;}
+.div3{ width: 300px; height: 300px; display: flex; margin-right: 150px; margin-bottom: 100px;}
+.rel2{ position: relative; }
+.vid1{ position: absolute; z-index:-1;}
+.sec3{width: 100%; height: 400px;display: flex;
+justify-content: center; align-items: center; justify-content: space-around;}
+.div4{ width: 300px; height: 300px; margin-left: 50px; }
+.div5{ width: 400px; height: 250px; margin-right: 50px; margin-bottom: 50px;
+padding-top: 80px;}
+.h13{color: white; font-size: 35px;}
+.h33{font-size: 20px;}
+.sec4{width: 100%; height: 400px; display: flex;
+    justify-content: center; align-items: center; justify-content: space-around;}
+.div6{ width: 400px; height: 250px; margin-right: 50px; margin-bottom: 50px;
+    padding-top: 80px;}
+.div7{ width: 400px; height: 300px;
+     display: flex; margin-right: 100px; margin-bottom: 100px; margin-top: 100px;}
+.h14{color: white; font-size: 35px;}
+.h34{font-size: 20px;}
+.rel3{position: relative;  z-index: 1}
+.vid2{position : absolute; margin-left: 68px;  }
+.sec5{width: 100%; height: 400px;display: flex;
+    justify-content: center; align-items: center; justify-content: space-around;}
+ .div8{ width: 400px; height: 300px}
+ .div9{ width: 450px; height: 250px;}
+ .h15{color: white; font-size: 35px;}
+ .h35{font-size: 20px;}
+ .sec6{ width: 100%; height: 400px;}
+ .h6{color: rgb(77, 74, 74); width: 200px;
+margin-left: 20px; margin-top: 100px;}
+.div11{width: 100%; height: 240px; display: flex; justify-content: space-around;}
+.div12{ width: 200px;height: 200px; color: rgb(77, 74, 74);}
+.div13{ width: 200px;height: 200px;color: rgb(77, 74, 74);}
+.div14{ width: 200px;height: 200px;color: rgb(77, 74, 74);}
+.div15{ width: 200px;height: 200px;color: rgb(77, 74, 74);}
+.foot{background-color: rgb(65, 63, 63); border: solid black;}
